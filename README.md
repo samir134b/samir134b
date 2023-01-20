@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Samir Hamid</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0">
+<h3 align="center">A Passionate Front End Developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir134b&label=Profile%20views&color=0e75b6&style=flat" alt="samir134b" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Full Stack,React.js**
 
-- 💬 Ask me about **Data Structures,Algorithms,Java**
+- 💬 Ask me about **Web Development, Java, Data Structures, Algorithms**
 
 - 📫 How to reach me **samir134b@gmail.com**
 
